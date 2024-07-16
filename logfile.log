@@ -1,0 +1,11 @@
+2024-07-16 12:02:55,733 :INFO : test_e2e :SuccessText :- ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-07-16 12:08:23,384 :INFO : test_formSubmission :Form Submission message :- ×
+Success! The Form has been submitted successfully!.
+2024-07-16 12:08:24,100 :INFO : test_formSubmission :Form Submission message :- ×
+Success! The Form has been submitted successfully!.
+2024-07-16 12:08:24,100 :INFO : test_formSubmission :Form Submission message :- ×
+Success! The Form has been submitted successfully!.
+2024-07-16 12:08:28,237 :INFO : test_e2e :Checkout Successfull
+2024-07-16 12:08:33,844 :INFO : test_e2e :SuccessText :- ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
